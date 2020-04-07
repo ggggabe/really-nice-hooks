@@ -1,0 +1,15 @@
+{
+  "name": "really-nice-hooks",
+  "version": "1.0.0",
+  "description": "Really Nice React Hooks",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabe Marquez",
+  "license": "ISC"
+}
